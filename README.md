@@ -1,17 +1,15 @@
 # DecemberLabsJava
 
 Explicacion: Se corren 2 test solicitados
-Validar formulario “Get in touch”,
- - Test1: Dentro de la web de December Labs, navegar hasta el form, completar el mismo
-  con los datos detallados a continuación y enviar formulario. Validar que el
-  formulario se envió con éxito. Los datos a utilizar para completar el form son los
-  siguientes:
-  ■ Name, Company & Message = "Test"
-  ■ Email = "test@decemberlabs.com"
-
-  - Test2: Dentro de la web de December Labs, navegar hasta el form, no completar
-  ningún campo y enviar formulario. Validar que se visualizan mensajes de error
-  indicando los campos obligatorios.
+- Completar y enviar formulario de ‘Join our team’
+      ○ Ingresar a la web de December Labs
+      ○ Ingresar a la sección ‘Careers’ y validar que la sección se despliegue
+      correctamente
+      ○ Ingresar el formulario de ‘Join our team’ desde cualquier botón de ‘Apply now’
+      ■ Dentro del formulario completar los diferentes campos con datos a
+      elección, a no ser el email, en el cual se debe ingresar
+      "test@decemberlabs.com"
+      ■ Enviar el formulario y validar que el mismo se envió de forma exitosa.
 
 -Es necesario tener IntelliJ con la version comunitaria sirve.
 -Tener JAVA instalado, con el jdk configurado en Intellij
