@@ -15,6 +15,10 @@ siguientes:
 ningún campo y enviar formulario. Validar que se visualizan mensajes de error
 indicando los campos obligatorios.
 
+## Mejoras
+* _Se puede mejorar el patron de diseño con una clase Base. Para simplificar la visibilidad de los test se podria integrar una libreria para reportes como ser Allure Report_ 
+* _Se podrian integrar consultas a las Apis, para verificar que el formulario se guardo en la base en caso de que estas solicitudes se guarden en BD_
+* _Para el Test 2 no se pudieron validar mensajes de error ya que los mismos no aparecen, solo se resaltan los campos vacios obligatorios, que es lo que se valido_
 
 ## Pasos Para ejecutar
 
