@@ -2,7 +2,8 @@
 
 _Explicacion: Se corren 2 test solicitados_
 
-Validar formulario “Get in touch”,
+## Validar formulario “Get in touch”
+
 ### Test 1: Dentro de la web de December Labs, navegar hasta el form, completar el mismo
 Con los datos detallados a continuación y enviar formulario. Validar que el
 formulario se envió con éxito. Los datos a utilizar para completar el form son los
