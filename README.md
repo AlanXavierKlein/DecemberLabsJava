@@ -24,7 +24,7 @@ indicando los campos obligatorios.
 
 1) Clonar el proyecto 
 2) Si no se cuenta con Maven Instalado, instalar y configurar el PATH de sistema (https://www.youtube.com/watch?v=T4-nYT5ubK8&ab_channel=Framebits)
-3) Descargar Chromedriver segun la version de tu navegador en: https://chromedriver.chromium.org/ y pegarlo en la carpeta driver
+3) Descargar Chromedriver segun la version de tu navegador en: https://chromedriver.chromium.org/ y pegarlo en la carpeta drivers
 4) Abrir la consola, y pararse en la carpeta donde se encuentra el proyecto \DecemberLabsJava
 5) Dentro de la carpeta del proyecto ejecutar el comando **nvm test**
  
